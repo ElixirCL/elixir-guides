@@ -5,7 +5,7 @@ title: Introducción
 ---
 
 
-¡Bienvenido(a)!
+¡Bienvenid@!
 
 En este tutorial vamos a enseñarte sobre los fundamentos de Elixir; su sintaxis, cómo definir módulos, como manipular las estructuras de datos más comunes, sus características y también vamos a aseguranos que puedas instalar Elixir y correr su consola interactiva, llamada IEx.
 
