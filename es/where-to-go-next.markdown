@@ -18,7 +18,7 @@ Hemos escrito una guía que abrca la construicción de una aplicación Elixir, c
 
 * [Mix y OTP](/getting-started/mix-otp/introduction-to-mix.html)
 
-Si planeas escribir tu primera biblioteca para que la usen otros desarrolladores, no olvides leer nuestras [Pautas para bibliotecas] (https://hexdocs.pm/elixir/library-guidelines.html).
+Si planeas escribir tu primera biblioteca para que la usen otros desarrolladores, no olvides leer nuestras [Pautas para bibliotecas](https://hexdocs.pm/elixir/library-guidelines.html).
 
 ## Metaprogramación
 
@@ -30,7 +30,7 @@ Elixir es un lenguaje de programación extensible y muy personalizable gracias a
 
 Tenemos una sección [Aprendizaje](/learning.html) que recomienda libros, screencasts y otros recursos para aprender Elixir y explorar el ecosistema. También existen varios recursos de Elixir, como conferencias, proyectos de código abierto u otros materiales de aprendizaje creado por la comunidad.
 
-No olvides que también puede consultar el [código fuente de Elixir] (https://github.com/elixir-lang/elixir), lo cual en su mayoria se encuentra escrito principalmente en Elixir (principalmente el directorio `lib`), o [ explore la documentación de Elixir](/docs.html).
+No olvides que también puede consultar el [código fuente de Elixir](https://github.com/elixir-lang/elixir), lo cual en su mayoria se encuentra escrito principalmente en Elixir (principalmente el directorio `lib`), o [ explore la documentación de Elixir](/docs.html).
 
 ## Un poco de Erlang
 
