@@ -13,12 +13,12 @@ Usamos algunos términos en inglés (por ejemplo los tipos de datos) para evitar
 
 
 ### Getting Started
-- [Introduction](es/introduction.markdown)
-- [Basic types](es/basic-types.markdown)
-- [Basic operators](es/basic-operators.markdown)
+- [Introducción](es/introduction.markdown)
+- [Tipos de datos básicos](es/basic-types.markdown)
+- [Operadores básicos](es/basic-operators.markdown)
 - [Pattern matching](es/pattern-matching.markdown)
-- [case, cond, and if](es/case-cond-and-if.markdown)
-- [Binaries, strings, and charlists](es/binaries-strings-and-char-lists.markdown)
+- [`case`, `cond`, and `if`](es/case-cond-and-if.markdown)
+- [Binarios, `strings` y listas de caracteres](es/binaries-strings-and-char-lists.markdown)
 - [Keyword lists and maps](es/keywords-and-maps.markdown)
 - [Modules and Functions](es/modules-and-functions.markdown)
 - [Recursion](es/recursion.markdown)
@@ -28,7 +28,7 @@ Usamos algunos términos en inglés (por ejemplo los tipos de datos) para evitar
 - [alias, require, and import](es/alias-require-and-import.markdown)
 - [Module attributes](es/module-attributes.markdown)
 - [Structs](es/structs.markdown)
-- [Protocols](es/protocols.markdown)
+- [Protocolos](es/protocols.markdown)
 - [Comprehensions](es/comprehensions.markdown)
 - [Sigils](es/sigils.markdown)
 - [try, catch, and rescue](es/try-catch-and-rescue.markdown)
@@ -36,7 +36,7 @@ Usamos algunos términos en inglés (por ejemplo los tipos de datos) para evitar
 - [Erlang libraries](es/erlang-libraries.markdown)
 - [Debugging](es/debugging.markdown)
 - [Typespecs and behaviours](es/typespecs-and-behaviours.markdown)
-- [Where to go next](es/where-to-go-next.markdown)
+- [¿Dónde continuar?](es/where-to-go-next.markdown)
 
 ### Mix and OTP
 - [Introduction to Mix](es/mix-otp/introduction-to-mix.markdown)
