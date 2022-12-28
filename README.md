@@ -19,7 +19,7 @@ Usamos algunos términos en inglés (por ejemplo los tipos de datos) para evitar
 - [Pattern matching](es/pattern-matching.markdown)
 - [`case`, `cond`, and `if`](es/case-cond-and-if.markdown)
 - [Binarios, `strings` y listas de caracteres](es/binaries-strings-and-char-lists.markdown)
-- [Keyword lists and maps](es/keywords-and-maps.markdown)
+- [Listas de claves y diccionarios](es/keywords-and-maps.markdown)
 - [Modules and Functions](es/modules-and-functions.markdown)
 - [Recursion](es/recursion.markdown)
 - [Enumerables and streams](es/enumerables-and-streams.markdown)
